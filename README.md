@@ -223,12 +223,22 @@ See the `TF Keras Tutorials` folder to check out the tutorials.
 </summary>
 <br>
   
-This section is only meant to further motivate you to take the course. There are generally about six or seven labs where one lab typically takes the following form:
+This section is only meant to further motivate you to take the course (i.e., labs will remain inaccessible). There are generally about six or seven labs where one lab typically takes the following form:
   
-- Implementing machine learning technique(s) from scratch
+- Implementing machine learning technique(s) from scratch with OOP
 - Testing the implementation by comparing to actual implementations from libraries
 - Analyzing hyperparameter or properties of the technique (and comparing it with others when applicable)
 - Using the technique over a real dataset in a full pipeline
 
+Here are some lab highlights:
+
+<img width="1313" alt="image" src="https://github.com/EssamWisam/Applied-Machine-Learning-CU/assets/49572294/91099331-0d82-4157-9787-ef5845e4dd3a">
+
+<img width="1071" alt="image" src="https://github.com/EssamWisam/Applied-Machine-Learning-CU/assets/49572294/8e9db50e-0137-4fec-927d-7f5f80ac57eb">
+
+<img width="1071" alt="image" src="https://github.com/EssamWisam/Applied-Machine-Learning-CU/assets/49572294/41fcee66-2e59-40bb-9d2d-0ec400bd8538">
+
 
 </details>
+
+<h2 align="center"> Thank You 💙</h2>
