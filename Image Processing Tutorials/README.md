@@ -1,7 +1,7 @@
  <h2> 📷 Image Processing Tutorials </h2>
 <br>
   
-Recognizing that many students lacked prior experience in image processing, an optional tutorial session was offered. This session focused on core image processing concepts derived from the course material, with a strong emphasis on hands-on practice and familiarization with image processing toolboxes.
+Recognizing that many students had not already take the image processing course which is necessary for the project, an optional tutorial session was offered focused on core image processing concepts derived from the course material, with a strong emphasis on hands-on practice and familiarization with image processing toolboxes.
 
 ✦ The series of tutorials cover the following using toolboxes such as OpenCV an Scikit-image:
 
